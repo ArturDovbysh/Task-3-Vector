@@ -1,0 +1,7 @@
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.exe.config
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.exe
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.pdb
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.exe
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.pdb
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\BestLoggerEver.dll
+C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\BestLoggerEver.pdb

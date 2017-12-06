@@ -1,0 +1,6 @@
+﻿06.12.2017 22:01:02 | Level : Info | Message : Assembly : Task_3_ArturDovbysh, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null started
+06.12.2017 22:01:02 | Level : Info | Message : A new instance of vector object was created!
+06.12.2017 22:01:02 | Level : Info | Message : A new instance of vector object was created!
+06.12.2017 22:01:02 | Level : Trace | Message : Compare operators works well
+06.12.2017 22:01:02 | Level : Trace | Message : Adding, subtracting and multiplying operators works well!
+06.12.2017 22:01:02 | Level : Info | Message : Assembly : Task_3_ArturDovbysh, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null finished
