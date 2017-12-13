@@ -1,6 +1,5 @@
-﻿using System;
+using System;
 using System.Reflection;
-using BestLoggerEver;       //My logger.dll
 
 
 namespace Task_3_ArturDovbysh
@@ -9,18 +8,15 @@ namespace Task_3_ArturDovbysh
     {
         static void Main(string[] args)
         {
-            //logger for logging the state of an application
-            Logger logger = LoggerFactory.GetLogger();
-            logger.Log($"Assembly : { Assembly.GetAssembly(typeof(Program)).FullName.ToString()} started",LogLevels.Info);
+            
 
             var v1 = new Vector();
-            logger.Log("A new instance of vector object was created!",LogLevels.Info);
             v1.AddElement(1);
             v1.AddElement(2);
 
             int[] arr = { 1, 2 };
             var v2 = new Vector(arr);
-            logger.Log("A new instance of vector object was created!", LogLevels.Info);
+            
 
             try
             {
@@ -30,7 +26,7 @@ namespace Task_3_ArturDovbysh
                 Console.WriteLine(v1 != v2);
                 Console.WriteLine(v1 < v2);
 
-                logger.Log("Compare operators works well", LogLevels.Trace);
+                
             }
             catch(Exception ex)
             {
@@ -60,18 +56,13 @@ namespace Task_3_ArturDovbysh
                     Console.WriteLine(newVec[i]);
 
 
-                logger.Log("Adding, subtracting and multiplying operators works well!", LogLevels.Trace);
+           
             }
             catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
 
-
-
-
-            logger.Log($"Assembly : { Assembly.GetAssembly(typeof(Program)).FullName.ToString()} finished", LogLevels.Info);
-            logger.Dispose();
         }
     }
 }
