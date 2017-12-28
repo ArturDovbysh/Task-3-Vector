@@ -5,3 +5,11 @@ C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\obj\Debug\Task_3_
 C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.pdb
 C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\BestLoggerEver.dll
 C:\Users\Artur\Desktop\Task_3_ArturDovbysh\Task_3_ArturDovbysh\bin\Debug\BestLoggerEver.pdb
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.csprojResolveAssemblyReference.cache
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.csproj.CoreCompileInputs.cache
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.exe
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\obj\Debug\Task_3_ArturDovbysh.pdb
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.exe.config
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.exe
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\bin\Debug\Task_3_ArturDovbysh.pdb
+D:\Study\GitHub\Task-3-Vector\Task_3_ArturDovbysh\bin\Debug\BestLoggerEver.pdb

@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-namespace Task_3_ArturDovbysh
+namespace Task_3_ArturDovbysh.VectorLogic
 {
     /// <summary>
     /// Represents a set of values as a vector.
